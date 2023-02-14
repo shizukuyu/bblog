@@ -1,0 +1,4 @@
+[submodule "shizuku/public"]
+	path = shizuku/public
+	url = https://github.com/shizukuyu/shizukuyu.github.io.git
+	branch = main
